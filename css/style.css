@@ -1,0 +1,18 @@
+header {
+  width: 100%;
+}
+
+.hero-section {
+  height: 800px;
+  background: tomato;
+}
+
+.quotes {
+  height: 200px;
+  background: aqua;
+}
+
+.ads {
+  height: 500px;
+  background-color: blueviolet;
+}
